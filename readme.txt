@@ -1,6 +1,3 @@
-TDDDhdasdasdis is my fixsssed for DevOpsSchool.com....Fix for ewewewe HON-3453453343
-ff
-fffffdssds
 For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 # this isddd a fix og sdfljflld fjldsfjdsjfkdl;sdasdasdasdfdsfsdfsdfserewrwe
 # ========================NEXUS==============================
